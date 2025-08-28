@@ -6,9 +6,9 @@
 
 enum layers {
     BASE,   // default layer
+    QWERTY, // qwerty
     SYMB,   // symbols
     MDIA,   // media keys
-    QWERTY, // qwerty
 };
 
 // clang-format off
